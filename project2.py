@@ -1,3 +1,6 @@
+#! python
+import sys
+
 # Ask and greet by name
 name = input("What is your name?")
 print("Hello {}!  Let's work out what you earned this week".format(name))
