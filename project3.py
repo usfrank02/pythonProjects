@@ -1,3 +1,6 @@
+#! python
+import sys
+
 name = input("Enter your name:")
 print (name)
 year_of_born = int(input("What's the year you were born?"))
