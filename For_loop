@@ -1,0 +1,4 @@
+#! python
+list(fruits_inventory.items([('oranges', 9) , ('apples', 5) , ('pears', 2)]))
+for fruits in fruits_inventory.items():
+  print(fruits)

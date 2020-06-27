@@ -1,0 +1,8 @@
+#! python
+# Write your code here
+favor_ice_cream = input("What is your favorite ice cream flavor?")
+favor_ice_cream = favor_ice_cream.lower().strip()
+
+#Check the favorite ice cream flavor
+if favor_ice_cream == "cookies and cream":
+  print("Mine too!")
