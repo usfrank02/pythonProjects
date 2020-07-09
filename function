@@ -1,0 +1,9 @@
+#!/bin/bash
+
+function test_shadow(){
+if [ -e test_shadow ];
+then
+	echo "It exists"
+else
+	echo "The file does not exists"}
+test_shadow
